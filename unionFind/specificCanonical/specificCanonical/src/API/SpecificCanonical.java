@@ -98,10 +98,7 @@ public class SpecificCanonical {
         }
     }
 
-    public void get_largest() {
-        System.out.println("The largest element per connected component are:");
-        for (int j: this.largest) { System.out.printf(" %d ", j) ;}
-    }
+
 
 }
 
